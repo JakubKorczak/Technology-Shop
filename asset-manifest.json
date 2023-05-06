@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/JakubKorczak/Technology-Shop/static/css/main.f7b1b2f1.css",
+    "main.js": "/JakubKorczak/Technology-Shop/static/js/main.bcee29a9.js",
+    "static/media/Register Back ground.jpg": "/JakubKorczak/Technology-Shop/static/media/Register Back ground.fcc1c1d2c785b42d9827.jpg",
+    "static/media/banner-img.png": "/JakubKorczak/Technology-Shop/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/JakubKorczak/Technology-Shop/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/337912092_268168178868459__n.png": "/JakubKorczak/Technology-Shop/static/media/337912092_268168178868459_8084184389387433978_n.40c2c46c128180b2371c.png",
+    "static/media/339071964___n.png": "/JakubKorczak/Technology-Shop/static/media/339071964_1275987013030099_1893502995452438114_n.02f42f2baa4e1cf6161d.png",
+    "static/media/339077469_214418724564913__n.png": "/JakubKorczak/Technology-Shop/static/media/339077469_214418724564913_5637508898114760834_n.befe365b2f535b736ebe.png",
+    "index.html": "/JakubKorczak/Technology-Shop/index.html",
+    "main.f7b1b2f1.css.map": "/JakubKorczak/Technology-Shop/static/css/main.f7b1b2f1.css.map",
+    "main.bcee29a9.js.map": "/JakubKorczak/Technology-Shop/static/js/main.bcee29a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b1b2f1.css",
+    "static/js/main.bcee29a9.js"
+  ]
+}
